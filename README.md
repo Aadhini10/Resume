@@ -1,2 +1,2 @@
 # Resume
-My HTML project 
+ This is my first HTML project. The HTML and CSS Resume project is a visually appealing and interactive web-based resume created using the powerful combination of HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets). This project serves as a digital representation of your professional profile, showcasing your skills, experience, and achievements in an engaging and accessible format.
